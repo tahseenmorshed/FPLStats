@@ -5,6 +5,7 @@ It has 2 parts:
 2. C# scorer – parses files with raw player stats, applies the scoring model (with position scaling), and writes a neat report of totals.
 
 **Scoring Model**
+
 Players are scored by category: Scoring, Passing, Possession, Defending, Negatives.
 
 Each category sums base weights for the actions we track (e.g., goals = 5, assists = 3, clean sheet for CB/FB = 4, etc).
@@ -20,6 +21,7 @@ Clean sheets only give points to defenders (and a small amount to midfielders), 
 All weights and scalings live in playerstats.cs so there’s a single source of truth.
 
 **Data flow**
+
 Scraper → per-match CSVs
 For each matchday, the scraper creates a file named: "{HOME}_vs_{AWAY}_matchday{GW}.csv".
 Each row: Player Name, Team, Stat Type, Stats Data
@@ -38,6 +40,7 @@ Sample raw player stats and sample player scores can be found in the repository 
 https://fbref.com/en/matches/e851cb5c/Newcastle-United-Arsenal-September-28-2025-Premier-League
 
 **Setup**
+
 1) C# project
 
 From the FPL_Calculator folder:
@@ -59,6 +62,7 @@ Download a chromedriver that matches your Chrome version and update:
 CHROMEDRIVER_PATH = '/Users/you/Downloads/chromedriver/chromedriver'
 
 **How to run**
+
 A) Scrape matches (per-match CSVs)
 
 Open fbref_scraper.py and set:
