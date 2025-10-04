@@ -1,0 +1,163 @@
+FANTASY SCORING REPORT
+Source: /Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/player_stats.txt
+========================================================================
+Name: Nick Woltemade
+Position: FW
+Club: -
+  TOTAL: 7
+------------------------------------------------------------------------
+Name: William Osula
+Position: FW
+Club: -
+  TOTAL: 1
+------------------------------------------------------------------------
+Name: Anthony Gordon
+Position: LW
+Club: -
+  TOTAL: 6
+------------------------------------------------------------------------
+Name: Kieran Trippier
+Position: RB,LW
+Club: -
+  TOTAL: 1
+------------------------------------------------------------------------
+Name: Jacob Murphy
+Position: RW
+Club: -
+  TOTAL: 4
+------------------------------------------------------------------------
+Name: Anthony Elanga
+Position: RM,RW
+Club: -
+  TOTAL: 3
+------------------------------------------------------------------------
+Name: Joelinton
+Position: LM
+Club: -
+  TOTAL: 1
+------------------------------------------------------------------------
+Name: Harvey Barnes
+Position: LM
+Club: -
+  TOTAL: 0
+------------------------------------------------------------------------
+Name: Sandro Tonali
+Position: CM
+Club: -
+  TOTAL: 10
+------------------------------------------------------------------------
+Name: Bruno Guimarães
+Position: RM,CM
+Club: -
+  TOTAL: 4
+------------------------------------------------------------------------
+Name: Dan Burn
+Position: LB,CB
+Club: -
+  TOTAL: 1
+------------------------------------------------------------------------
+Name: Sven Botman
+Position: CB
+Club: -
+  TOTAL: 6
+------------------------------------------------------------------------
+Name: Malick Thiaw
+Position: CB
+Club: -
+  TOTAL: 5
+------------------------------------------------------------------------
+Name: Valentino Livramento
+Position: RB,LB
+Club: -
+  TOTAL: 3
+------------------------------------------------------------------------
+Name: Jamaal Lascelles
+Position: CB
+Club: -
+  TOTAL: 1
+------------------------------------------------------------------------
+Name: Nick Pope
+Position: GK
+Club: -
+  TOTAL: 7
+------------------------------------------------------------------------
+Name: Viktor Gyökeres
+Position: FW
+Club: -
+  TOTAL: 5
+------------------------------------------------------------------------
+Name: Leandro Trossard
+Position: LW,LB
+Club: -
+  TOTAL: 3
+------------------------------------------------------------------------
+Name: Myles Lewis-Skelly
+Position: LB
+Club: -
+  TOTAL: 1
+------------------------------------------------------------------------
+Name: Bukayo Saka
+Position: RW
+Club: -
+  TOTAL: 6
+------------------------------------------------------------------------
+Name: Gabriel Martinelli
+Position: RW
+Club: -
+  TOTAL: 3
+------------------------------------------------------------------------
+Name: Eberechi Eze
+Position: AM,LW
+Club: -
+  TOTAL: 5
+------------------------------------------------------------------------
+Name: Declan Rice
+Position: DM,CM
+Club: -
+  TOTAL: 14
+------------------------------------------------------------------------
+Name: Martín Zubimendi
+Position: DM,LM
+Club: -
+  TOTAL: 8
+------------------------------------------------------------------------
+Name: Martin Ødegaard
+Position: LM
+Club: -
+  TOTAL: 11
+------------------------------------------------------------------------
+Name: Riccardo Calafiori
+Position: LB
+Club: -
+  TOTAL: 2
+------------------------------------------------------------------------
+Name: Mikel Merino
+Position: RM
+Club: -
+  TOTAL: 6
+------------------------------------------------------------------------
+Name: Gabriel Magalhães
+Position: CB
+Club: -
+  TOTAL: 9
+------------------------------------------------------------------------
+Name: Cristhian Mosquera
+Position: CB
+Club: -
+  TOTAL: 2
+------------------------------------------------------------------------
+Name: William Saliba
+Position: CB
+Club: -
+  TOTAL: 1
+------------------------------------------------------------------------
+Name: Jurriën Timber
+Position: RB
+Club: -
+  TOTAL: 8
+------------------------------------------------------------------------
+Name: David Raya
+Position: GK
+Club: -
+  TOTAL: 1
+------------------------------------------------------------------------

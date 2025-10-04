@@ -1,0 +1,17 @@
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/bin/Debug/net7.0/FPL_Calculator
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/bin/Debug/net7.0/FPL_Calculator.deps.json
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/bin/Debug/net7.0/FPL_Calculator.runtimeconfig.json
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/bin/Debug/net7.0/FPL_Calculator.dll
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/bin/Debug/net7.0/FPL_Calculator.pdb
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.csproj.AssemblyReference.cache
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.AssemblyInfoInputs.cache
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.AssemblyInfo.cs
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.csproj.CoreCompileInputs.cache
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.dll
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/refint/FPL_Calculator.dll
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.pdb
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.genruntimeconfig.cache
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/ref/FPL_Calculator.dll
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/bin/Debug/net7.0/CsvHelper.dll
+/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/Debug/net7.0/FPL_Calculator.csproj.CopyComplete

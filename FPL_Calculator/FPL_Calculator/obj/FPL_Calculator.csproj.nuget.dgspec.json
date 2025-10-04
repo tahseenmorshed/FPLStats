@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/FPL_Calculator.csproj": {}
+  },
+  "projects": {
+    "/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/FPL_Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/FPL_Calculator.csproj",
+        "projectName": "FPL_Calculator",
+        "projectPath": "/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/FPL_Calculator.csproj",
+        "packagesPath": "/Users/tahseen/.nuget/packages/",
+        "outputPath": "/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tahseen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

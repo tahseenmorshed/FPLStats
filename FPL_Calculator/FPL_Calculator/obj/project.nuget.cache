@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVqsKMk8HuovhXeDci9ISGEMQT5r6KRm3x/grxYtQl9Ta39jwfBEYAKx7AaPJct0LB0ukfPntdfvzhRTEMTlvg==",
+  "success": true,
+  "projectFilePath": "/Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/FPL_Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/tahseen/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
