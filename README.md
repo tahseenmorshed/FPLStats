@@ -87,21 +87,5 @@ dotnet run --project FPL_Calculator
 
 Then the player score file will be generated. Example snippet:
 
-**FANTASY SCORING REPORT
-Source: /Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/player_stats.txt
-========================================================================
-Name: Bukayo Saka
-Position: RW
-Club: -
-  TOTAL: 6
-------------------------------------------------------------------------
-Name: Gabriel Martinelli
-Position: RW
-Club: -
-  TOTAL: 1
-------------------------------------------------------------------------
-Name: Eberechi Eze
-Position: AM,LW
-Club: -
-  TOTAL: 5
-------------------------------------------------------------------------
+<img width="597" height="346" alt="Screenshot 2025-10-04 at 6 25 56 pm" src="https://github.com/user-attachments/assets/0ced4723-b852-435f-92f0-9861213ba657" />
+
