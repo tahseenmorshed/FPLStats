@@ -85,9 +85,9 @@ Then run:
 
 dotnet run --project FPL_Calculator
 
-**Then the player score file will be generated. Example snippet:
-**
-FANTASY SCORING REPORT
+Then the player score file will be generated. Example snippet:
+
+**FANTASY SCORING REPORT
 Source: /Users/tahseen/Projects/FPL_Calculator/FPL_Calculator/player_stats.txt
 ========================================================================
 Name: Bukayo Saka
